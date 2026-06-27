@@ -14,3 +14,6 @@ The Football Player Valuation System is an end-to-end data science pipeline that
 
 ## 📊 Feature Importance Insights
 Through data analysis, technical metrics (**Passing** and **Dribbling**) demonstrated a significantly higher statistical correlation with elite tier wage distributions compared to raw physical metrics (**Pace**).
+
+## 📅 Dataset Reference
+The predictive model was trained utilizing the open-source FIFA 22 Player Dataset. Due to file size constraints, the raw data file (`players_22.csv`) is excluded from this repository but can be sourced directly from [Kaggle](https://www.kaggle.com/).
